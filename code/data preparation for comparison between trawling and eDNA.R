@@ -10,6 +10,5 @@ View(merged_16S_verts_wgt)
 dim(merged_16S_verts_wgt)
 write.csv(merged_16S_verts_wgt,'merged_16S_verts_wgt.csv')
 
-#will run tomorrow
 merged_16S_verts_count <-merge(data_16S, data_verts_count, by="Taxa")
 write.csv(merged_16S_verts_count,"merged_16S_verts_count.csv")
