@@ -2,7 +2,7 @@
 Comparative survey of biodiversity in the offshore using multi-species trawls and environmental DNA.
 
 More detailed information about this study is available in our publication:
-He X., Jeffery N. W., Stanley R. R. E., Hamilton L. C., Rubidge E. M., Abbott C. L. (2023). eDNA metabarcoding enriches traditional trawl survey data for monitoring biodiversity in the marine environment. ICES Journal of Marine Science. 80, 1529–1538. doi: 10.1093/icesjms/fsad083
+He X., Jeffery N. W., Stanley R. R. E., Hamilton L. C., Rubidge E. M., Abbott C. L. (2023). eDNA metabarcoding enriches traditional trawl survey data for monitoring biodiversity in the marine environment. ICES Journal of Marine Science. 80, 1529–1538. https://doi.org/10.1093/icesjms/fsad083
 
 
 ![ ](/inst/2020_edna_survey.png)
