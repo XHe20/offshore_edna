@@ -1,4 +1,4 @@
-# offshore_edna
+# offshore_eDNA
 Comparative survey of biodiversity in the offshore using multi-species trawls and environmental DNA.
 
 More detailed information about this study is available in our publication:
